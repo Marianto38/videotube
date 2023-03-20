@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/show.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+    <title>Sesión 13</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+          <figure class="figure">
+            <a href="../index.html"><img src="../images/logo-videotube.png" alt="Logo Videotube"></a>
+          </figure>
+          <ul class="list">
+            <li> <h4 class="title-nav">VideoTube</h4></li>
+            <li>
+              <form id="form-search">
+                <div class="container-search">
+                  <input
+                    type="search"
+                    id="mySearch"
+                    name="q"
+                    placeholder="Buscar Video" />
+                  <button><i class="fas fa-search vector-search"></i></button>
+                </div>
+              </form>
+            </li>
+            <a class="link-new-video new-btn" href="../pages/newVideo.html"> <span id="new-btn"><i class="fa-solid fa-circle-plus"></i></span></a>
+          </ul>
+        </nav>
+    </header>
+     <main class="main">
+      <!-- <section>
+        <ul  class="sect-tags">
+          <li><button name="all" class="tag-active"> Todos </button></li>
+          <li class=""> <button name="Música" class="tag_inactive"> Música</button></li>
+          <li class=""><button name="Programación" class="tag_inactive"> Programación</button></li>
+          <li class=""><button  name="Diseño-UX" class="tag_inactive"> Diseño UX</button></li>
+        </ul>
+      </section> -->
+
+      <div class="container">
+        <section class="container-show-video">
+        </section>
+        <section class="container-suggested-videos">
+          <h3 class="title-ppl">Videos Sugeridos </h3>
+
+        </section>
+      </div>
+    </main>
+
+    <!-- <footer class="footer">Hecho con ❤ por el curso FrontEnd Cohorte 4</footer> -->
+
+    <script src="../scripts/show.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</body>
+</html>

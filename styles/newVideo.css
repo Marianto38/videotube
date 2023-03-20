@@ -1,0 +1,115 @@
+.container-form {
+  padding: 40px;
+  /* background-color: aqua; */
+  width: 500px;
+  border-radius: 12px;
+  background: #161616;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+}
+.form-new-video {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  justify-content: center;
+  gap: 8px;
+}
+
+.main-form {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.list a {
+  margin-left: 250px;
+  transition: transform 0.5s !important;
+}
+
+#new-btn {
+  transition: transform 0.5s !important;
+  color: #ffffff;
+  margin-left: 250px;
+  font-size: 28px;
+}
+#new-btn:hover {
+  transform: scale(1.01) !important;
+}
+
+nav figure a {
+  padding: 0;
+  margin: 0;
+}
+.form-new-video {
+  font-family: "Poppins" !important;
+  font-size: 12px;
+  margin-bottom: 0px;
+  gap: 3px;
+}
+.form-new-video input {
+  border-radius: 20px;
+  padding: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+}
+.form-new-video select {
+  border-radius: 20px;
+  padding: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+}
+.form-new-video button {
+  border-radius: 20px;
+  padding: 8px;
+  margin-top: 8px;
+  background: #ffffff;
+  font-size: 18px;
+}
+
+@media (max-width: 600px) {
+  #form-search {
+    display: none;
+  }
+  #search-mq {
+    color: #ffffff;
+  }
+  .lupa {
+    color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+    width: 15px;
+  }
+  .list a {
+    margin-left: 0px;
+    transition: transform 0.5s !important;
+  }
+  #new-btn {
+    transition: transform 0.5s !important;
+    color: #ffffff;
+    margin-left: 100px;
+    font-size: 28px;
+  }
+  .sect-tags {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 10px;
+    gap: 8px;
+    background: #181818;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    flex-wrap: wrap;
+  }
+  .nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 10px;
+    gap: 0px;
+    width: auto;
+    height: 80px;
+  }
+}
