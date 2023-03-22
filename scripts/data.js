@@ -10,8 +10,7 @@ export const videosInVsc = [
   views: "54",
   min: "Hace 15 min",
   minutes: "00:58",
-  linkImg: "https://i.ytimg.com/vi/vI9d8lnH4dE/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgcIBUofzAP&rs=AOn4CLBw5nW2hSkocGtqJko0LzfynbfLEQ"
-
+  linkImg: "../images/img.png"
  },
  {
   id: 2,
@@ -23,7 +22,7 @@ export const videosInVsc = [
   views: "1,160",
   min: "10 Ago. 2021",
   minutes: "12:05",
-  linkImg: "https://i.ytimg.com/an_webp/k_r5Kh4wptQ/mqdefault_6s.webp?du=3000&sqp=CNit4aAG&rs=AOn4CLD3eqKFDLcXM1kIWH3WJBZMcArwVA"
+  linkImg: "../images/img(1).png"
  },
  {
   id: 3,
@@ -35,7 +34,7 @@ export const videosInVsc = [
   views: "330",
   min: "10 ago. 2021",
   minutes: "26:15",
-  linkImg: "https://i.ytimg.com/an_webp/igpvckbxhJs/mqdefault_6s.webp?du=3000&sqp=CLfQ4aAG&rs=AOn4CLBIx6Hl2HwB0fYvYeXHQgOjqB9MYQ"
+  linkImg: "../images/img(2).png"
  },
  {
   id: 4,
@@ -47,7 +46,7 @@ export const videosInVsc = [
   views: "1,738",
   min: "20 jul. 2021",
   minutes: "11:35",
-  linkImg: "https://i.ytimg.com/vi/g3RKFBbROjk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtg5I1htRl3z1kLq5Dg0n8fuG0Tg"
+  linkImg: "../images/img(3).png"
  },
  {
   id: 5,
@@ -59,7 +58,7 @@ export const videosInVsc = [
   views: "1.2 M de",
   min: "4 ago. 2021",
   minutes: "12:13",
-  linkImg: "https://i.ytimg.com/vi/KGj-5E3EG0Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSRzJB3u_pFs_HMgbzpPuK5kXz0w"
+  linkImg: "../images/img(4).png"
  },
  {
   id: 6,
@@ -71,7 +70,7 @@ export const videosInVsc = [
   views: "330",
   min: "12 ago. 2021",
   minutes: "26:37",
-  linkImg: "https://i.ytimg.com/an_webp/It407UNmYoY/mqdefault_6s.webp?du=3000&sqp=CNLd4aAG&rs=AOn4CLCaQExMbARDZz7WSBh789NXwaNSAg"
+  linkImg: "../images/img(5).png"
  },
  {
   id: 7,
@@ -83,7 +82,7 @@ export const videosInVsc = [
   views: "1,775",
   min: "18 jul. 2021",
   minutes: "10:41",
-  linkImg: "https://i.ytimg.com/vi/10Blk7gYQ38/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuoetgLmgNO4yIVhPt5TbYhbhK1A"
+  linkImg: "../images/img(6).png"
  },
  {
   id: 8,
@@ -95,7 +94,7 @@ export const videosInVsc = [
   views: "998",
   min: "29 jul. 2021",
   minutes: "06:31",
-  linkImg: "https://i.ytimg.com/vi/g3CbDto2zzs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWTrFVr5JOxP4-PYvySLbiuYd5Qg"
+  linkImg: "../images/img(7).png"
  },
  {
   id: 9,
@@ -107,7 +106,7 @@ export const videosInVsc = [
   views: "49,351",
   min: "29 dic. 2020",
   minutes: "03:80",
-  linkImg: "https://i.ytimg.com/an_webp/7QqKcfOiBHU/mqdefault_6s.webp?du=3000&sqp=CK_V4aAG&rs=AOn4CLDZTmDH-pzbXzTGL5rjyHAGWgm9kg"
+  linkImg: "../images/img(8).png"
  },
  {
   id: 10,
@@ -119,7 +118,7 @@ export const videosInVsc = [
   views: "1.4 M de",
   min: "3 ago. 2021",
   minutes: "03:10",
-  linkImg: "https://i.ytimg.com/an_webp/RrH7XtKeq0M/mqdefault_6s.webp?du=3000&sqp=CP604aAG&rs=AOn4CLCDF-s9Kbbe-dgWUfhLEluiID1s4Q"
+  linkImg: "../images/img(9).png"
  },
  {
   id: 11,
@@ -131,7 +130,7 @@ export const videosInVsc = [
   views: "1,912,863 de",
   min: "26 marz. 2018",
   minutes: "02:40",
-  linkImg: "https://i.ytimg.com/an_webp/cS6Hi2Avoww/mqdefault_6s.webp?du=3000&sqp=CKDJ4aAG&rs=AOn4CLDA_Rwo7d24DaQ7zmcdivm_ZmVKbQ"
+  linkImg: "../images/img(10).png"
  },
  {
   id: 12,
@@ -143,7 +142,7 @@ export const videosInVsc = [
   views: "1,912,863 de",
   min: "26 marz. 2018",
   minutes: "04:25",
-  linkImg: "https://i.ytimg.com/vi/LyCEN_zTE54/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcZmYpDXbQrLibw3mXa2yR0G0dZw"
+  linkImg: "../images/img(11).png"
  },
 
  {
@@ -156,7 +155,7 @@ export const videosInVsc = [
   views: "1,6 M de",
   min: "26 ene. 2017",
   minutes: "10:16",
-  linkImg: "https://i.ytimg.com/an_webp/3VmoZrxXbmg/mqdefault_6s.webp?du=3000&sqp=CLDI4aAG&rs=AOn4CLAj_lEgVNImS8SO5WeGo5J5jhXYvg"
+  linkImg: "../images/12.jpg"
  },
  {
   id: 14,
@@ -168,7 +167,7 @@ export const videosInVsc = [
   views: "1,300 M de",
   min: "1 sep. 2016",
   minutes: "05:33",
-  linkImg: "https://i.ytimg.com/an_webp/YXnjy5YlDwk/mqdefault_6s.webp?du=3000&sqp=CL7G4aAG&rs=AOn4CLArCYnRfF9bHgF5G_m2ZSuMwlKHbQ"
+  linkImg: "../images/13.jpg"
  },
  {
   id: 15,
@@ -180,7 +179,7 @@ export const videosInVsc = [
   views: "21 M de",
   min: "5 feb. 2023",
   minutes: "04:05",
-  linkImg: "https://i.ytimg.com/an_webp/0f7bPPN9XdM/mqdefault_6s.webp?du=3000&sqp=CLnE4aAG&rs=AOn4CLDABxzR2kv89XmTEWE4psHumshMIg"
+  linkImg: "../images/14.jpg"
  },
  {
   id: 16,
@@ -192,7 +191,7 @@ export const videosInVsc = [
   views: "6, 4 M de",
   min: "3 marz. 2023",
   minutes: "03:50",
-  linkImg: "https://i.ytimg.com/an_webp/jZGpkLElSu8/mqdefault_6s.webp?du=3000&sqp=CNXu4aAG&rs=AOn4CLAMCmUuthu8xEEnrddLMvxIJG5u-A"
+  linkImg: "../images/15.jpg"
  },
  {
   id: 17,
@@ -204,7 +203,7 @@ export const videosInVsc = [
   views: "2, 2 M de",
   min: "13 abr. 2022",
   minutes: "02:40",
-  linkImg: "https://i.ytimg.com/an_webp/suYCkYfyPWQ/mqdefault_6s.webp?du=3000&sqp=CKzV4aAG&rs=AOn4CLApe_rZlP-TfU5ZGMiaSSrUz9x07g"
+  linkImg: "../images/16.jpg"
  },
  {
   id: 18,
@@ -216,7 +215,7 @@ export const videosInVsc = [
   views: "3,4 M de",
   min: "21 ene. 2023",
   minutes: "03:18",
-  linkImg: "https://i.ytimg.com/an_webp/4I25nV9hXGA/mqdefault_6s.webp?du=3000&sqp=CIDA4aAG&rs=AOn4CLB70QTQm_0F4rfFgaNQtxbWnajyJA"
+  linkImg: "../images/17.jpg"
  },
  {
   id: 19,
@@ -228,7 +227,7 @@ export const videosInVsc = [
   views: "281043 de",
   min: "10 ene. 2023",
   minutes: "40:45",
-  linkImg: "https://i.ytimg.com/an_webp/-oK6zL01fNM/mqdefault_6s.webp?du=3000&sqp=CLjq4aAG&rs=AOn4CLCrS8J_dlmpvLw_WBd1zmCzqr_qxQ"
+  linkImg: "../images/18.jpg"
  },
 {
   id: 20,
@@ -240,7 +239,7 @@ export const videosInVsc = [
   views: "213,555 de",
   min: "30 marz. 2021",
   minutes: "15:48",
-  linkImg: "https://i.ytimg.com/an_webp/H6U1Pm7x60E/mqdefault_6s.webp?du=3000&sqp=CPzv4aAG&rs=AOn4CLCIlBqo6swOl3lsOYrfX2Nhu4a0Jw"
+  linkImg: "../images/19.jpg"
  },
  {
   id: 21,
@@ -257,7 +256,7 @@ export const videosInVsc = [
  {
   id: 22,
   src: "https://www.youtube.com/embed/2SetvwBV-SU?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA",
-  title: "Purple Disco Machine, Special Mix 2021. Best Songs &amp; Remixes",
+  title: "Curso Javascript 1",
   img: "https://yt3.ggpht.com/cxZ0gdwcKZINPA0wcSjICgwaa_dLjwJUPcYjpUJTeDoZfB_gVumTpKCOACF9fiPHvwBvXpV6=s48-c-k-c0x00ffffff-no-rj",
   category: "Programación",
   creator: "jonmircha",
@@ -281,10 +280,10 @@ export const videosInVsc = [
  {
   id: 24,
   src: "https://www.youtube.com/embed/gCox2CqYvto?list=PLvq-jIkSeTUY628cyd9LVbXSXi2xG9mUl",
-  title: "Curso Grid CSS: (1/17) Introducción y Conceptos Básicos - #jonmircha",
+  title: "Curso Grid CSS: (1/17) Introducción y Conceptos",
   img: "https://yt3.ggpht.com/ytc/AL5GRJWEM9IhQj38axzF-OUncRTMoSrYYpRhfL8JXm_XRA=s48-c-k-c0x00ffffff-no-rj",
-  category: "Música",
-  creator: "Caroune",
+  category: "Programación",
+  creator: "jonmircha",
   views: "1,912,863 de",
   min: "26 marz. 2018",
   minutes: "14:20",
@@ -312,7 +311,7 @@ export const videosInVsc = [
   views: "44,666 de",
   min: "14 jul. 2018",
   minutes: "23:10",
-  linkImg: "https://i.ytimg.com/an_webp/nyPaYf97_KU/mqdefault_6s.webp?du=3000&sqp=CMuR4qAG&rs=AOn4CLC7NSKbzeJdKF-mn-fCaj_crSKh3A"
+  linkImg: "../images/21.png"
  },
  {
   id: 27,
@@ -324,7 +323,7 @@ export const videosInVsc = [
   views: "2,5 M de",
   min: "1 abr. 2014",
   minutes: "15:30",
-  linkImg: "https://i.ytimg.com/an_webp/-Td55c_HCUE/mqdefault_6s.webp?du=3000&sqp=COH24aAG&rs=AOn4CLAO8gUSIOEUDZzj4DTIfvEItG30Bw"
+  linkImg: "../images/20.jpg"
  },
  {
   id: 28,
@@ -336,7 +335,7 @@ export const videosInVsc = [
   views: "1,912,863 de",
   min: "19 marz. 2018",
   minutes: "16:40",
-  linkImg: "https://i.ytimg.com/an_webp/fos_lLlwBSU/mqdefault_6s.webp?du=3000&sqp=CLeY4qAG&rs=AOn4CLBHQhlcq9OQDlDQywssrJYykGcjbA"
+  linkImg: "../images/22.jpg"
  },
  {
   id: 29,
@@ -348,7 +347,7 @@ export const videosInVsc = [
   views: "6,78 M de",
   min: "26 marz. 2018",
   minutes: "18:50",
-  linkImg: "https://i.ytimg.com/an_webp/SDv2vOIFIj8/mqdefault_6s.webp?du=3000&sqp=CKaI4qAG&rs=AOn4CLDOcQYwwINJl8Gmyr6lq-nfpsIO4Q"
+  linkImg: "../images/23.jpg"
  },
  {
   id: 30,
@@ -360,7 +359,7 @@ export const videosInVsc = [
   views: "1,342 M de",
   min: "4 jul. 2016",
   minutes: "30:40",
-  linkImg: "https://i.ytimg.com/an_webp/RtevrQZCdAU/mqdefault_6s.webp?du=3000&sqp=CJ_j4aAG&rs=AOn4CLBq7kkDgQ1NADOr5Alxk0GDN0lHAQ"
+  linkImg: "../images/24.jpg"
  },
 {
   id: 31,
@@ -372,7 +371,7 @@ export const videosInVsc = [
   views: "1,912 de",
   min: "16 may. 2019",
   minutes: "12:19",
-  linkImg: "https://i.ytimg.com/an_webp/O6YT-JJZ3P8/mqdefault_6s.webp?du=3000&sqp=CLGe4qAG&rs=AOn4CLDh-BaBm-wI8jt9E_LAd6MR-GsUpw"
+  linkImg: "../images/25.jpg"
  },
  {
   id: 32,

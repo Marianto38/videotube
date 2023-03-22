@@ -70,10 +70,6 @@ videos.forEach(video => {
   document.addEventListener("click", (event) => {
 
     const categoryFilter = event.target.getAttribute("name");
-    // console.log(categoryFilter)
-    // const traerLi = event.target.querySelector('.')
-    // categoryFilter.classList.remove("tag_inactive");
-    // categoryFilter.classList.add("tag-active");
     if (categoryFilter === "all") {
       showVideos(videoInMiniature, videos);
       // console.log("se veran todos")
@@ -116,15 +112,15 @@ search.addEventListener("submit", (event) => {
       showVideos(videoInMiniature, videosFilterByTitle);
   });
  //filtro buscador por creador
- const searchByCreator = document.getElementById('mySearch');
-  searchByCreator.addEventListener("keyup", (event) => {
-    event.preventDefault();
-    const searchByCreator = event.target;
-    console.log(searchByCreator.value)
-    const videosFilterByCreator = videos.filter((element) => element.creator.toLowerCase().includes(searchByCreator.value.toLowerCase()));
-    console.log(videosFilterByCreator)
-    showVideos(videoInMiniature, videosFilterByCreator);
-  });
+//  const searchByCreator = document.getElementById('mySearch');
+//   searchByCreator.addEventListener("keyup", (event) => {
+//     event.preventDefault();
+//     const searchByCreator = event.target;
+//     console.log(searchByCreator.value)
+//     const videosFilterByCreator = videos.filter((element) => element.creator.toLowerCase().includes(searchByCreator.value.toLowerCase()));
+//     console.log(videosFilterByCreator)
+//     showVideos(videoInMiniature, videosFilterByCreator);
+//   });
 
 // const allSearch = (eventParam, container) => {
 //   // const a = searchType
