@@ -386,3 +386,4 @@ export const videosInVsc = [
   linkImg: "https://i.ytimg.com/vi/svcNcHSHjn4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIEQofzAP&rs=AOn4CLAhMLkhHW5FJEO0NeQu7UXbeSbCEA"
  }
 ]
+// <iframe width="668" height="376" src="https://www.youtube.com/embed/xqr7QOvU9Hk" title="Es NECESARIO cuidar tu salud MENTAL | Marian Rojas Estapé" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
